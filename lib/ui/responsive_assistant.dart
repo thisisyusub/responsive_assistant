@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'sizing_information.dart';
 import 'device_screen_type.dart';
 
+/// A Simple [StatelessWidget] to implement responsiveness
+
+/// [builder] parameter returns relevant information about current device.
 class ResponsiveAssistant extends StatelessWidget {
   final Widget Function(
       BuildContext context, SizingInformation sizingInformation) builder;

@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'device_screen_type.dart';
 
-
+/// It is used by [ResponsiveAssistant] to provide information about [Orientation], [DeviceScreenType], [ScreenSize]
+/// and [LocalWidgetSize].
+/// can be used to provide responsiveness according to calculations.
 class SizingInformation {
   final Orientation orientation;
   final DeviceScreenType deviceScreenType;

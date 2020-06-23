@@ -2,7 +2,7 @@
 
 ---
 
-A simple dart package that helps you to implemente responsiveness.
+A simple dart package that helps you to implement responsiveness.
 
 The package was created based on [Filled Stacks's approach](https://www.youtube.com/watch?v=z7P1OFLw4kY).
 
@@ -18,7 +18,7 @@ The package consists of the following:
 
 - **ResponsiveAssistant** - this is the the simple StatelessWidget that returns a widget with the `SizingInformation`.
 
-> Note: `DeviceScreenType` and `SizingInformation` is used by `ResponsiveAssistant`. You just neeed to use `ResponsiveAssitant` to control responsiveness.
+> Note: `DeviceScreenType` and `SizingInformation` is used by `ResponsiveAssistant`. You just need to use `ResponsiveAssitant` to control responsiveness.
 
 ---
 
