@@ -4,7 +4,7 @@
 
 A simple dart package that helps you to implement responsiveness.
 
-The package was created based on [Filled Stacks's approach](https://www.youtube.com/watch?v=z7P1OFLw4kY).
+The package was created based on [Filled Stacks' approach](https://www.youtube.com/watch?v=z7P1OFLw4kY).
 
 ---
 
